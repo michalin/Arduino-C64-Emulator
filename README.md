@@ -23,6 +23,9 @@ A PS/2 or PS/2 compatible USB keyboard can be used to enter simple BASIC program
 \
 \
 This is of course just an educational fun project. With only a little more than 1k RAM, no color, no graphics and sound capabilities, it is not possible to play any of the typical C64 games on it. However, when running on an Arduino Mega, we get 6000 bytes of BASIC RAM and a 320x200 pixel bitmap mode. The bitmaps can only be stored in flash memory, so BASIC programs can't change them. Note that there are still no colors, but only black and white.
+\
+\
+<img src="hires-lion.png" alt="High resolution image of a lion" width="640">
 ## More
 Install and [Run the emulator](C64/README.md)
 \
