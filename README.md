@@ -33,7 +33,7 @@ Create [Hires header files](Hires/README.md)
 \
 
 ## Video on Youtube
-The video tells more about the details
+Watch video for more details
 \
 [<img src="thumbnail.png" alt="Youtube thumbnail" width="640">](https://youtu.be/jMNXyMuxqfE)
 
